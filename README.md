@@ -1,4 +1,5 @@
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mavi0/telegraf-perf/docker.yml?style=flat-square)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mavi0/telegraf-perf/docker.yml?style=flat-square) ![GitHub Tag](https://img.shields.io/github/v/tag/mavi0/telegraf-perf?style=flat-square) 
+
 
 
 
