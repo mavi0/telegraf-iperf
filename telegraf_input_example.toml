@@ -1,0 +1,6 @@
+[[inputs.exec]]
+  commands=["/path/to/script"]
+  interval = "5m"
+  timeout = "2m"
+  data_format = "json"
+  name_override = "perf"
