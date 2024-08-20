@@ -1,3 +1,7 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mavi0/telegraf-perf/docker.yml?style=flat-square)
+
+
+
 # telegraf-perf
 
 Example performance script to call from telegraf:
