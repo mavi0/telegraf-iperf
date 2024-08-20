@@ -1,4 +1,4 @@
-# telegraf-iperf
+# telegraf-perf
 
 Example performance script to call from telegraf:
 
